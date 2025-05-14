@@ -12,7 +12,10 @@
   height: 100px;
 }
 .App{
-  display: flex;
-  justify-content: space-between;
+  flex-direction:row;
+
+  gap: 20PX;
   padding-top: 20px;
+  display: flex;
 }
+ 
